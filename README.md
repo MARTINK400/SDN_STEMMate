@@ -8,4 +8,4 @@ David Matheus
 Veiko K. Niclause
 Sakaria Hipandwa 
 Jomoneco Van Wyk
-Aukus Syma H 
+and Aukus Syma H 
