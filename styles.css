@@ -1,0 +1,14 @@
+#app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1rem;
+}
+#user-chip { font-size: 15px; color: #333; }
+#user-chip button { width: auto; padding: 0.35rem 0.75rem; font-size: 15px; margin-left: 0.5rem; }
+.hint { font-size: 15px; color: #555; }
+code { background: #f1f1f1; padding: 0.15rem 0.35rem; border-radius: 3px; }
